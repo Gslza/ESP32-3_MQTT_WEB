@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Kendali IoT Multi-Broker",
+  "description": "Dashboard IoT modern dengan integrasi voice command 3D spectrum, visualisasi sensor 3D Three.js, multi-broker MQTT (Flespi, Cedalo, Shiftr), kontrol relay, dan Firebase Authentication.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
